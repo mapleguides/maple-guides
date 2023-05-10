@@ -1,0 +1,36 @@
+Instrukcja dotycząca multi-konta
+
+Przez Maple.Software
+Krok 1: Wyloguj się z konta osu! w grze i w przeglądarce internetowej.
+
+Krok 2: Wyczyść wszystkie pliki cookie przeglądarki, nie tylko te dotyczące osu!, we wszystkich przeglądarkach.
+
+Krok 3: Pobierz i połącz się z siecią VPN. Zalecane są ProtonVPN (darmowe) lub inne usługi VPN zarówno płatne jak i darmowe. Użytkownicy ProtonVPN powinni korzystać z tego samego serwera VPN, ponieważ korzystanie z jednego adresu IP wydaje się mniej podejrzane.
+- https://protonvpn.com/ << Polecamy
+
+Krok 4: Pobierz Maple.Software i wstrzyknij go.
+
+Krok 5: Utwórz profil za pomocą modułu Spoofer. Nadaj mu nazwę i upewnij się, że profil jest załadowany.
+
+Krok 6: Utwórz nowe konto osu! i trzymaj się określonych limitów PP.
+
+Ważne uwagi:
+
+1. Upewnij się, że powtarzasz kroki 1 i 2, gdy przełączasz się między kontami. Gdy wracasz do głównego konta, upewnij się, że dezaktywujesz swoją sieć VPN po wylogowaniu.
+2. Nie zmieniaj profili systemowych Spoofer podczas gry na swoim koncie osu!.
+3. Dezaktywuj profil systemowy Spoofera lub zmień go za każdym razem, gdy przełączasz się na inne konto.
+4. Regularnie osiągaj nowe rekordy, aby uczynić swoją nagłą (poprawioną) poprawkę bardziej wiarygodną.
+5. Nie używaj wysokich ustawień AA / Relax, ponieważ może to prowadzić do szybkiego zablokowania.
+6. Używając HD / Flashlight Remover, upewnij się, że masz wymagany ilość wyników dla tej mapy. (HD = 5/10+ Flashlight 20/25+)
+7. Bardzo ważne jest, aby nie korzystać z funkcji Relax na żadnym serwerze, zwłaszcza Bancho.
+8. Nie używaj innych oszustw niż Maple.Software; Jeśli musisz użyć edytora replaya, zamknij osu! i dopiero wtedy go użyj. Upewnij się, że usuwasz protokoły uwierzytelniania osu!
+
+Limity PP:
+Dzień 1: Nie zdobywaj więcej niż 15-20 PP w pojedynczej grze przesłanej do rankingu. Nie przekraczaj łącznie 300pp.
+Dzień 3: Nie zdobywaj więcej niż 35 PP w pojedynczej grze przesłanej do rankingu. Nie przekraczaj łącznie 300pp.
+Tydzień 2: Nie zdobywaj więcej niż 85 PP w pojedynczej grze przesłanej do rankingu. Nie przekraczaj łącznie 350pp.
+Tydzień 3: Możesz swobodnie grinderować, choć zalecane jest stopniowe zdobywanie większej ilości PP. Nie przekraczaj łącznie 400pp.
+
+Autor instrukcji: Cheu#5907 (Moderator w Maple)
+Właściciele oprogramowania: Maple Syrup#1011 Azuki#7911
+Oprogramowanie: https://maple.software/

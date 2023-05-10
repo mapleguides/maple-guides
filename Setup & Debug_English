@@ -1,0 +1,57 @@
+// Debug // setup by Cheu // 04-09-2023
+
+Note before starting this process:
+This procedure is not intended for software such as Defender Control; please re-enable Windows Defender if it has been disabled through a third-party software. Additionally, if you have not yet used a third-party tool to disable Windows Defender, please refrain from doing so.
+
+
+// Normal Computer Set-up //
+
+Windows Defender
+------------------
+1. Disable all settings in Virus & Threat Protection.
+
+Overlays
+------------------
+1. Disable Discord Overlay.
+2. Disable GeForce Experience Overlay.
+3. Disable Overwolf Overlay, which has been known to cause crashes.
+
+Anti-Cheats & Third-Party Anti-Viruses
+------------------
+1. Disable or uninstall Vanguard.
+2. Disable third-party anti-virus or add an exclusion for Maple.Software (Loader). Note that some anti-viruses, such as Kaspersky, need to be completely disabled since exclusions do not work.
+3. Modified Computer Set-up (Follow Overlay's & Anti-cheat // Third-Party AV from Normal Computer Setup)
+
+// Debugging Maple (Crashes) //
+First check https://maple.software/help/software-issues for a solution to your issue. If none are found, proceed with the steps below.
+
+Secondly, if you encounter issues such as "infinite loading," "Doesn't inject," or "Crashes on inject," then you may not have followed the steps above correctly.
+
+Please provide the following:
+
+Details
+------------------
+Detail the crash as much as possible. If you do not provide enough information, we may not be able to help you effectively.
+If possible, provide a screenshot of the error code (which may not always appear).
+
+Event Viewer
+------------------
+1. Search for "Event Viewer" and open it.
+2. Navigate to "Windows Logs" and select "Applications."
+3. Provide details of the latest crash indicated by the red circle with an exclamation mark. Copy its general details (do not alter anything) and paste them alongside your report. Note that sometimes Maple does not generate Event Viewer logs; if so, skip this step.
+
+Osu!Runtime
+------------------
+1. Open the Osu! folder and navigate to "Logs."
+2. Drag and drop "Runtime" into Discord and post it alongside your report.
+
+Maple-Runtime
+------------------
+1. Press the Windows key + R. This will open the "Run" dialog box. (Do not have Osu! open during this process!)
+2. Type "%appdata%" and navigate to the large randomized folder that has a bunch of random text.
+3. Then navigate to "Logs," where you'll find a bug of files, copy and paste those along with your bug-report message.
+
+Recording
+------------------
+1. If possible, provide a recording of the crash and replicate the issue.
+2. If Maple crashes alongside another program and that program is on Github (open-source), please provide it alongside your report.

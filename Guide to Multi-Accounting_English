@@ -1,0 +1,35 @@
+Guide to Multi-Accounting
+  - With Maple.Software
+
+Step 1: Log out of your osu! account, both in-game and in the web-browser.
+
+Step 2: Clear all browser cookies, not just osu! cookies, from all browsers.
+
+Step 3: Download and connect to a VPN. It is recommended to use ProtonVPN (free), or a paid/homebrew VPN service. ProtonVPN users should use the same VPN server, as using one IP address makes it less suspicious. 
+        - https://protonvpn.com/ << Recommended
+
+Step 4: Download and install Maple.Software & inject it.
+
+Step 5: Create a profile with the Spoofer module. Name it whatever you want, and make sure the profile is loaded. 
+
+Step 6: Create an osu! account and follow the regulated PP limits. 
+
+Important Notes:
+1. When switching accounts, make sure to repeat steps 1 and 2. If you are switching back to your main account, make sure to turn off your VPN after you log out. 
+2. Do not switch spoofer profiles while logged in to your osu! account in-game. 
+3. Make sure to turn off the spoofer profile or switch the spoofer profile when logging into other accounts.
+4. Grind play count a little bit here and there to make your vast (sudden) improvement more believable.
+5. Do not use high AA / Relax settings as this could lead to a fast ban.
+6. When using HD / Flashlight remover, make sure you have the needed playcount for that map. (HD = 5/10+ Flashlight 20/25+)
+7. It is highly recommended not to use Relax on any server, and this is very highly recommended on Bancho.
+8. Do not use other cheats other than Maple.Software; if you have to use a replay editor, close osu! and then use it; make sure to clear osu!auth.logs
+
+PP Limits:
+Day 1: Do not get higher than 15-20 PP on a single submitted play. Do not get more than 300pp in total.
+Day 3: Do not get higher than 35 PP on a single submitted play. Do not get more than 300pp in total.
+Week 2: Do not get higher than 85 PP on a single submitted play. Do not get more than 350pp in total.
+Week 3: You are free to roam around, though it is recommended to gain more PP slowly. Do not get more than 400pp in total.
+
+Guide Creator: Cheu#5907 (Maple-Moderator)
+Software Owner(s): Maple Syrup#1011 & Azuki#7911
+Software: https://maple.software/
