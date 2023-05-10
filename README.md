@@ -4,7 +4,7 @@ This repo is based around [Maple.Software](https://maple.software/) here you'll 
 ## Maple.Software Contributions
 - Maple Syrup | Owner
 - Azuki | Owner
-- Cheu, Eggsy | Moderators
+- Eggsy | Moderators
 - OwOUser, Dqnny | Support
 - Spooker, Source, Hugo | Repo Contributor
 
