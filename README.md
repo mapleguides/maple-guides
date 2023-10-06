@@ -6,7 +6,7 @@ This repo is based around [Maple.Software](https://maple.software/) here you'll 
 - Azuki | Owner
 - Eggsy | Moderator
 - OwOUser, Dqnny | Support
-- Spooker, Source, Hugo | Repo Contributor
+- Spooker, Source, Hugo, Rina | Repo Contributor
 
 ![Maple.Software LLC Logo](https://i.ibb.co/thM1NDQ/discordlogo-removebg-preview.png)
 
