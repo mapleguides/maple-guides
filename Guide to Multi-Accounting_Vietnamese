@@ -1,0 +1,39 @@
+Hướng dẫn chơi nhiều tài khoản
+  - Với Maple.Software
+
+Bước 1: Đăng xuất khỏi tài khoản osu! của bạn, cả trong game và trên trình duyệt.
+
+Bước 2: Xóa toàn bộ cookies của trình duyệt, không chỉ cookies của osu!, từ toàn bộ trình duyệt.
+
+Bước 3: Tải và cài đặt một phần mềm VPN. Khuyến nghị sử dụng ProtonVPN (miễn phí), hoặc là dịch vụ VPN trả phí. Những người sử dụng ProtonVPN nên sử dụng duy nhất 1 máy chủ VPN, do việc có 1 địa chỉ IP làm nó bớt đáng nghi hơn. 
+        - https://protonvpn.com/ << Đề xuất
+
+Bước 4: Tải và cài đặt Maple.Software, sau đó inject nó.
+
+Bước 5: Tạo một hồ sơ (profile) mới bằng mô-đun Spoofer. Đặt tên nó là bất kì thứ gì bạn muốn, và hãy đảm bảo rằng hồ sơ này đã được nạp vào. 
+
+Bước 6: Tạo một tài khoản osu! mới và tuân thủ theo mức giới hạn PP được quy định. 
+
+Ghi Chú Quan Trọng:
+1. Khi thay đổi giữa các tài khoản, hãy làm lại theo bước 1 và 2 mỗi lần. Nếu bạn quay trở lại tài khoản gốc, hãy nhớ tắt VPN sau khi bạn đăng xuất (không được tắt trước khi đăng xuất). 
+2. Không thay đổi hồ sơ spoofer khi đang đăng nhập vào tài khoản osu! trong game. 
+3. Hãy nhớ tắt hồ sơ spoofer hoặc đổi hồ sơ spoofer khi đổi sang một tài khoản khác.
+4. Cày thời gian chơi đôi chút để giúp cho sự bất ngờ tiến bộ của bạn trông đáng tin hơn.
+5. Không sử dụng mức cài đặt Aim Assist / Relax quá cao vì điều này có thể khiến bạn bị cấm nhanh hơn
+5.1. Không nên bật mô-đun khác ngoài Spoofer nếu pp của tài khoản còn thấp.
+6. Khi sử dụng mô-đun xóa HD / FL, hãy đảm bảo rằng bạn có đủ nhiều số lượt thử cho map hiện tại. (Hidden = 10+ | Flashlight = 25+)
+6.1. Không nên xóa HD nếu tài khoản của bạn ở mức 1000pp trở xuống, FL nếu tài khoản của bạn ở mức 5000pp trở xuống (và map không quá dài)
+7. Rất khuyến cáo việc sử dụng Relax tại bất kì máy chủ nào, và điều này là được khuyến cáo cao nhất ở máy chủ Bancho.
+8. Không sử dụng các công cụ khác ngoại trừ Maple.Software; nếu bạn cần sử dụng replay editor thì Maple.Software đã có sẵn ở bản RPE; hãy nhớ xóa osu!auth.logs
+
+Giới Hạn PP:
+Ngày 1: Không nên tăng nhiều hơn 15-20pp trong một màn chơi. Không nên có nhiều hơn 250pp tổng thể.
+Ngày 3: Không nên tăng nhiều hơn 35-40pp trong một màn chơi. Không nên có nhiều hơn 300pp tổng thể.
+Tuần 2: Không nên tăng nhiều hơn 85-90pp trong một màn chơi. Không nên có nhiều hơn 350pp tổng thể.
+Tuần 3: Không nên tăng nhiều hơn 95-100pp trong một màn chơi. Không nên có nhiều hơn 400pp tổng thể.
+Trở đi: Bạn đã có thể chơi tự do, dù vậy vẫn khuyến khích việc tăng pp trong khoản 10-15pp tới 20-25pp mỗi màn chơi mới.
+
+Người Tạo Hướng Dẫn: acheuy (Người Điều Hành Maple)
+Người Dịch Hướng Dẫn (Tiếng Việt): rina0 (Khách Hàng Maple)
+Sở Hữu Phần Mềm: Maple Syrup#1011 & Azuki#7911
+Phần Mềm: https://maple.software/
